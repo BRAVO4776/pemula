@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <button class="click" id="click">
+        this is button
+    </button>
+    <script>
+        document.getElementsByClassName('click')[0].addEventListener('click', function(e){
+			const randomColor = "#" + ((1<<24) *Math.random() | 0).toString(16);
+			document.body.style.backgroundColor = randomColor;
+		})
+    </script>
+</body>
+</html>

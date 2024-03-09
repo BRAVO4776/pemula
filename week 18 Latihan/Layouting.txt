@@ -1,0 +1,8 @@
+Layouting
+
+Box Mode
+
+TYPE LINE : 
+- dashed
+- solid
+- dotted

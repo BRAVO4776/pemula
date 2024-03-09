@@ -1,0 +1,11 @@
+HTML
+
+Penyusun teknologi web
+
+HTML = Hypertext Markup Language
+
+-- Software 
+--Configure Autosave
+--Download Extensions
+	--- Live server
+

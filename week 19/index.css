@@ -1,0 +1,9 @@
+.container {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    border: none;
+    padding: 2.5rem;
+    margin: 2.5rem;
+}

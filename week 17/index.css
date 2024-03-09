@@ -1,0 +1,17 @@
+#container {
+    width: 400px;
+    height: 150px;
+    border-radius: 200;
+    color: white;
+    background-color: rgb(255, 0, 200);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.id {
+    justify-content: center;
+    align-items: center;
+}

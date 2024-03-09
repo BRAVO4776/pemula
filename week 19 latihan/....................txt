@@ -1,0 +1,5 @@
+index.html
+
+ctrl + /       --> utk komentar
+
+memakai kurung siku jika ingin mau custom warna
